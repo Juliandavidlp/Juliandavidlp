@@ -30,137 +30,143 @@ Mi background único en **Psicología (Yale University)** y **UX/UI Design** me 
 
 ---
 
-## 🛠️ Stack Tecnológico Completo
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Especialidades:** Vite, React Router, Context API, Hooks, localStorage, Responsive Design, Flexbox, CSS Grid, Mobile-First
-
-### ⚙️ Backend Development
-![Python](https://img.shields.io/badge/Python_Advanced-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-
-**Especialidades:** REST API Development, JWT Authentication, Database Design & Optimization
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ DevOps & Herramientas
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_GenAI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
-
-**Metodologías:** Agile, Scrum, GitFlow, Code Review, SDLC
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-[![Julián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliandavidlp&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Juliandavidlp)
+<a href="https://github.com/Juliandavidlp">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juliandavidlp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliandavidlp&layout=compact&theme=radical&langs_count=8)](https://github.com/Juliandavidlp)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juliandavidlp&theme=tokyonight)](https://github.com/Juliandavidlp)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juliandavidlp&theme=radical)](https://github.com/Juliandavidlp)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Juliandavidlp&icon=0&color=0)](https://github.com/Juliandavidlp)
+
+</div>
+
+## 💻 Lenguajes y Tecnologías (Experiencia Real)
+
+<div align="center">
+
+### 🚀 **Lenguajes Principales**
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React_18-Production-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-Production-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Learning-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ **Bases de Datos**
+![MySQL](https://img.shields.io/badge/MySQL-Production-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Production-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ **DevOps & Herramientas**
+![Git](https://img.shields.io/badge/Git-Expert-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_GenAI-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Production-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+### 📈 **Mi Distribución Real de Experiencia**
+```
+🐍 Python (Backend APIs, Flask)     ████████████████████████████████████████ 40%
+⚛️ JavaScript/React (Frontend)       ███████████████████████████████████      35%  
+🎨 HTML/CSS (UI/UX, Responsive)      ████████████████████████                 20%
+🗄️ SQL (Database Design)            █████                                     5%
+```
+
+**Especialidades técnicas:** React Hooks, Context API, JWT Authentication, REST APIs, Responsive Design, UX/UI
 
 </div>
 
 ---
 
-## 💼 Experiencia Técnica Destacada
+## 🎯 Proyectos Destacados
 
-### 💻 TECH LEAD FRONTEND - E-commerce Compumundo-HR
+### 🛒 **E-commerce Compumundo-HR** | *Tech Lead Frontend*
 **Proyecto Grupal Colaborativo | Codo a Codo 4.0** | *Julio 2024 - Presente*
 
-Lideré un equipo multidisciplinario de **4 desarrolladores frontend** aplicando metodologías ágiles y mejores prácticas de desarrollo.
+Lideré un equipo multidisciplinario de **4 desarrolladores frontend** aplicando metodologías ágiles.
 
-**Logros clave:**
-- ✅ Desarrollé arquitectura frontend completa con **slider personalizado** usando JavaScript vanilla puro
-- ✅ Implementé **sistema de validación en tiempo real** mejorando la UX en un **40%**
-- ✅ Diseñé estrategia de **responsive design** con Flexbox y CSS Grid para compatibilidad multi-dispositivo
-- ✅ Integré **componentes reutilizables** y sistema de iconografía con FontAwesome
+**🔥 Logros clave:**
+- ✅ Arquitectura frontend completa con **slider personalizado** (JavaScript vanilla)
+- ✅ **Sistema de validación en tiempo real** → **+40% mejora UX**
+- ✅ **Responsive design** con Flexbox y CSS Grid para multi-dispositivo
+- ✅ **Componentes reutilizables** y sistema de iconografía con FontAwesome
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript ES6+` `Flexbox` `CSS Grid` `FontAwesome` `Git`
+**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript ES6+` `Flexbox` `CSS Grid` `FontAwesome` `Git`
 
 ---
 
-### 🔧 BACKEND DEVELOPER - API REST Compumundo-HR
+### 🔧 **API REST Compumundo-HR** | *Backend Developer*
 **Proyecto Personal Fullstack** | *Agosto 2024 - Presente*
 
-Desarrollé desde cero una **API REST escalable** implementando arquitectura modular y mejores prácticas de seguridad.
+API REST escalable desde cero con arquitectura modular y seguridad enterprise.
 
-**Logros clave:**
-- 🚀 Diseñé y desarrollé **API REST completa** siguiendo principios RESTful
-- 🔐 Arquitecté **sistema de autenticación JWT** y gestión de sesiones seguras
-- 📊 Optimicé base de datos **MySQL/SQLite** con queries eficientes y relaciones normalizadas
-- 🔄 Integré **endpoints para sincronización bidireccional** con frontend existente
+**🔥 Logros clave:**
+- 🚀 **API REST completa** siguiendo principios RESTful
+- 🔐 **Autenticación JWT** y gestión de sesiones seguras
+- 📊 **Optimización MySQL/SQLite** con queries eficientes y relaciones normalizadas
+- 🔄 **Endpoints sincronización bidireccional** con frontend
 
-**Tech Stack:** `Python` `Flask` `MySQL` `SQLite` `JWT` `API REST` `Postman`
+**🛠️ Tech Stack:** `Python` `Flask` `MySQL` `SQLite` `JWT` `API REST` `Postman`
 
 ---
 
-### 🐾 FRONTEND DEVELOPER - Little Homies (Impacto Social)
+### 🐾 **Little Homies** | *Frontend Developer* | **Impacto Social**
 **Proyecto Personal** | *Junio 2024*
 
-Creé una plataforma web responsiva para facilitar la **adopción responsable de mascotas**, enfocada en generar impacto social positivo.
+Plataforma web responsiva para **adopción responsable de mascotas** con enfoque en impacto social positivo.
 
-**Logros clave:**
-- 🎯 **Interfaz intuitiva y emocional** para navegación de catálogo de adopción
-- 🔍 **Sistema de filtros avanzados** y búsqueda para matching mascota-adoptante
-- 💫 **Componentes interactivos** con feedback visual para mejorar engagement
-- 📱 **Diseño mobile-first** optimizado para accesibilidad
+**🔥 Logros clave:**
+- 🎯 **Interfaz emocional** para navegación de catálogo de adopción
+- 🔍 **Sistema de filtros avanzados** para matching mascota-adoptante
+- 💫 **Componentes interactivos** con feedback visual
+- 📱 **Mobile-first** optimizado para accesibilidad
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design` `UX/UI`
+**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design` `UX/UI`
 
 ---
 
-### ⚛️ REACT DEVELOPER - Aplicación E-commerce Moderna
+### ⚛️ **E-commerce React Moderno** | *React Developer*
 **Programa Talento Tech** | *Julio 2024*
 
-Desarrollé una aplicación React de alto rendimiento implementando **patrones avanzados** de desarrollo y arquitectura escalable.
+Aplicación React de alto rendimiento con **patrones avanzados** y arquitectura escalable.
 
-**Logros clave:**
-- 🔧 **Arquitectura de componentes funcionales** con React Hooks avanzados (useContext, useReducer, useParams)
-- 🛒 Implementación de **Context API** para gestión de estado global del carrito de compras
-- 🔒 **Sistema de rutas protegidas** con React Router para autenticación y autorización
-- 💾 **Persistencia inteligente** de datos de usuario con localStorage optimizado
-- ⚡ Configuración avanzada con **Vite y Hot Module Replacement**
+**🔥 Logros clave:**
+- 🔧 **React Hooks avanzados** (useContext, useReducer, useParams)
+- 🛒 **Context API** para estado global del carrito de compras
+- 🔒 **Rutas protegidas** con React Router para autenticación
+- 💾 **Persistencia inteligente** con localStorage optimizado
+- ⚡ **Vite + Hot Module Replacement** para desarrollo eficiente
 
-**Tech Stack:** `React 18` `Vite` `JavaScript ES6+` `Context API` `React Router` `localStorage` `HMR`
+**🛠️ Tech Stack:** `React 18` `Vite` `JavaScript ES6+` `Context API` `React Router` `localStorage` `HMR`
 
 ---
 
 ## 🧠 Soft Skills & Fortalezas Únicas
 
-### 👥 Liderazgo Técnico
+### 👥 **Liderazgo Técnico**
 - Gestión de **equipos multidisciplinarios**
-- Mentoring de **junior developers**
+- **Mentoring** de junior developers
 - Aplicación de metodologías **Agile/Scrum**
 
-### 🎯 Inteligencia Emocional
+### 🎯 **Inteligencia Emocional**
 - **Comunicación efectiva** en equipos diversos
 - **Resolución de conflictos** constructiva
 - Background en **Psicología (Yale University)**
 
-### 🚀 Pensamiento Analítico
+### 🚀 **Pensamiento Analítico**
 - **Problem-solving complejo** y debugging avanzado
 - **Análisis crítico** de arquitecturas de software
 - **Adaptabilidad** y aprendizaje continuo
 
-### 🎨 Visión UX/UI
+### 🎨 **Visión UX/UI**
 - Desarrollo **centrado en el usuario**
 - **Wireframing y prototyping** con Figma
 - **Design thinking** aplicado
@@ -169,12 +175,12 @@ Desarrollé una aplicación React de alto rendimiento implementando **patrones a
 
 ## 🎓 Formación Académica & Certificaciones
 
-### 📚 Formación Académica
+### 📚 **Formación Académica**
 **🎓 Universidad Nacional de La Plata**  
 *Profesorado en Letras* | Marzo 2024 - Agosto 2029  
 Especialización en comunicación efectiva y metodologías educativas innovadoras.
 
-### 🏆 Certificaciones Profesionales
+### 🏆 **Certificaciones Profesionales**
 
 **⚛️ Talento Tech - React JS Specialist** | *Julio 2024*  
 *Agencia de Habilidades para el Futuro*  
