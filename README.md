@@ -2,9 +2,16 @@
 
 ### Full-Stack Developer | React | Python | Flask | Django
 
-**📧 juliandorao@outlook.com** | **📱 +54 9 221 654-4515**  
-**💼 [LinkedIn](https://linkedin.com/in/julián-dorao)** | **🔗 [GitHub](https://github.com/Juliandavidlp)**  
-**📍 La Plata, Buenos Aires, Argentina** | **🎂 29 años**
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julián-dorao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliandorao@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juliandavidlp)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5492216544515)
+
+📍 **La Plata, Buenos Aires, Argentina** | 🎂 **29 años**
+
+</div>
 
 ---
 
@@ -25,28 +32,29 @@ Mi background único en **Psicología (Yale University)** y **UX/UI Design** me 
 ## 💻 Stack Tecnológico
 
 ### **🚀 Lenguajes Principales**
-- **Python** (Advanced) - Backend APIs, Flask, Django
-- **JavaScript ES6+** (Advanced) - React, Frontend development
-- **HTML5** (Expert) - Semantic markup, accessibility
-- **CSS3** (Advanced) - Responsive design, Flexbox, Grid
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **⚛️ Frameworks & Libraries**
-- **React 18** (Production) - Hooks, Context API, Router
-- **Flask** (Production) - REST APIs, JWT authentication
-- **Django** (Learning) - Full-stack development
-- **Bootstrap & Tailwind CSS** (Advanced) - UI frameworks
+![React](https://img.shields.io/badge/React_18-Production-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-Production-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Learning-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **🗄️ Bases de Datos & Backend**
-- **MySQL & SQLite** (Production) - Database design, optimization
-- **JWT Authentication** - Secure session management
-- **REST API Development** - RESTful principles
+![MySQL](https://img.shields.io/badge/MySQL-Production-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Production-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ### **🛠️ Herramientas & DevOps**
-- **Git & GitHub** (Expert) - Version control, collaboration
-- **Vite** (Production) - Build tools, HMR
-- **Postman** (Advanced) - API testing
-- **Figma** (Advanced) - UI/UX design, prototyping
-- **AWS** (Learning) - Generative AI, cloud services
+![Git](https://img.shields.io/badge/Git-Expert-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_GenAI-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Production-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ### **📊 Distribución de Experiencia**
 ```
