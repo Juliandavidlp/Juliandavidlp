@@ -40,8 +40,6 @@ Mi background único en **Psicología (Yale University)** y **UX/UI Design** me 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juliandavidlp&theme=tokyonight)](https://github.com/Juliandavidlp)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Juliandavidlp&icon=0&color=0)](https://github.com/Juliandavidlp)
-
 </div>
 
 ## 💻 Lenguajes y Tecnologías (Experiencia Real)
@@ -133,19 +131,33 @@ Plataforma web responsiva para **adopción responsable de mascotas** con enfoque
 
 ---
 
-### ⚛️ **E-commerce React Moderno** | *React Developer*
-**Programa Talento Tech** | *Julio 2024*
+### ⚛️ **E-commerce React Certificado** | *React Developer*
+**Programa Talento Tech - Ministerio de Educación CABA** | *Julio 2024*
 
-Aplicación React de alto rendimiento con **patrones avanzados** y arquitectura escalable.
+Aplicación React de alto rendimiento desarrollada siguiendo el **currículo oficial gubernamental** con metodología AOP (Aprendizaje Orientado a Proyectos).
 
-**🔥 Logros clave:**
-- 🔧 **React Hooks avanzados** (useContext, useReducer, useParams)
-- 🛒 **Context API** para estado global del carrito de compras
-- 🔒 **Rutas protegidas** con React Router para autenticación
-- 💾 **Persistencia inteligente** con localStorage optimizado
-- ⚡ **Vite + Hot Module Replacement** para desarrollo eficiente
+**🔥 Logros técnicos alcanzados:**
+- 🔧 **Arquitectura de componentes funcionales** con React Hooks avanzados (useContext, useReducer, useParams)
+- 🛒 **Context API** para gestión de estado global del carrito de compras
+- 🔒 **Sistema de rutas protegidas** con React Router para autenticación y autorización
+- 💾 **Persistencia inteligente** de datos de usuario con localStorage optimizado
+- ⚡ **Configuración avanzada** con Vite y Hot Module Replacement
 
-**🛠️ Tech Stack:** `React 18` `Vite` `JavaScript ES6+` `Context API` `React Router` `localStorage` `HMR`
+**🏆 Competencias certificadas oficialmente:**
+- ✅ **Creación de aplicación React desde cero** utilizando Vite
+- ✅ **CRUD completo de productos** en aplicación web funcional
+- ✅ **Autenticación de usuarios** con formularios validados y manejo de eventos
+- ✅ **Gestión de estado** con useState y Context API para estado global
+- ✅ **Rutas dinámicas y protegidas** para navegación segura con React Router
+- ✅ **Estilizado moderno** con librerías UI (Bootstrap/styled-components)
+- ✅ **Despliegue profesional** en plataformas como Vercel/Netlify
+
+**📋 Metodología aplicada:**
+- **AOP (Aprendizaje Orientado a Proyectos)** con desarrollo guiado
+- **Trabajo colaborativo** y feedback personalizado
+- **70% asistencia + proyecto final integrador** para certificación
+
+**🛠️ Tech Stack:** `React 18` `Vite` `JavaScript ES6+` `Context API` `React Router` `localStorage` `HMR` `Bootstrap` `JSX` `useState` `useEffect`
 
 ---
 
@@ -183,8 +195,8 @@ Especialización en comunicación efectiva y metodologías educativas innovadora
 ### 🏆 **Certificaciones Profesionales**
 
 **⚛️ Talento Tech - React JS Specialist** | *Julio 2024*  
-*Agencia de Habilidades para el Futuro*  
-Desarrollo de aplicaciones React modernas con arquitectura escalable. Hooks, Context API, State Management.
+*Ministerio de Educación Ciudad Autónoma de Buenos Aires*  
+Desarrollo de aplicaciones React modernas con arquitectura escalable. Hooks, Context API, State Management, CRUD, Autenticación.
 
 **🤖 AWS Educate - Introduction to Generative AI** | *Marzo 2025*  
 *Amazon Web Services*  
