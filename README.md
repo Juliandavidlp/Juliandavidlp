@@ -248,7 +248,7 @@ Psicología aplicada, comportamiento humano e inteligencia emocional.
 
 ## 📫 ¡Conectemos!
 
-Estoy **disponible inmediatamente** para nuevas oportunidades y colaboraciones. Si tienes un proyecto interesante o quieres charlar sobre tecnología, ¡no dudes en contactarme!
+Estoy **disponible inmediatamente** para nuevas oportunidades y colaboraciones. Si tenés un proyecto interesante o querés charlar sobre tecnología, ¡no dudes en contactarme!
 
 <div align="center">
 
