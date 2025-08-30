@@ -70,11 +70,11 @@ Mi background único en **Psicología (Yale University)** y **UX/UI Design** me 
 
 <div align="center">
 
-![Julián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliandavidlp&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![Julián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliandavidlp&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Juliandavidlp)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliandavidlp&layout=compact&theme=radical&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliandavidlp&layout=compact&theme=radical&langs_count=8)](https://github.com/Juliandavidlp)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Juliandavidlp&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Juliandavidlp&theme=radical)](https://github.com/Juliandavidlp)
 
 </div>
 
