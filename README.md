@@ -7,9 +7,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julián-dorao)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliandorao@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juliandavidlp)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5492216544515)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492216544515)
 
 📍 **La Plata, Buenos Aires, Argentina** | 🎂 **29 años**
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<a href="https://github.com/Juliandavidlp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliandavidlp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/Juliandavidlp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliandavidlp&layout=compact&theme=tokyonight"/>
+</a>
 
 </div>
 
