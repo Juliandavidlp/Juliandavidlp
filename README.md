@@ -1,5 +1,4 @@
-# 👋 ¡Hola! Soy Julián Dorao
-
+# 👋 ¡Hola, cómo andás? Soy Julián Dorao
 ### Full-Stack Developer | React | Python | Flask | Django
 
 <div align="center">
@@ -7,15 +6,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julián-dorao)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliandorao@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juliandavidlp)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492216544515)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492216544515)
 
-📍 **La Plata, Buenos Aires, Argentina** | 🎂 **30 años**
+📍 **La Plata, Buenos Aires, Argentina (Disponible para CABA y trabajo remoto)** | 🎂 **30 años**
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Métricas de Actividad y Contribuciones
 
 <div align="center">
 
@@ -31,225 +30,147 @@
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Perfil Profesional & Filosofía de Trabajo
 
-**Full-Stack Developer** con sólida experiencia en el desarrollo de aplicaciones web end-to-end utilizando tecnologías modernas como **React**, **Python** y **Flask**. Especializado en crear soluciones escalables que combinan interfaces de usuario intuitivas con arquitecturas de backend robustas.
+Soy un **Junior Full-Stack Developer** enfocado en el diseño, desarrollo e implementación de aplicaciones web modernas, escalables y mantenibles[cite: 4]. Mi enfoque combina la solidez técnica del desarrollo orientada a objetos y arquitecturas distribuidas con una profunda comprensión de la experiencia de usuario y la comunicación[cite: 4].
 
-Mi background único en **Psicología (Yale University)** y **UX/UI Design** me permite desarrollar productos centrados en el usuario y liderar equipos multidisciplinarios con alta inteligencia emocional. Mi pasión por la **educación** y el **impacto social** me motiva a explorar la intersección entre tecnología, arte y desarrollo humano.
+### 💡 La Intersección: Tecnología, Lenguaje y Conducta
+Mi propuesta de valor no se limita únicamente a escribir código sintácticamente correcto; se nutre de una formación interdisciplinaria que enriquece cada etapa del ciclo de vida del software[cite: 4]:
 
-**🎯 Estado actual:**
-- Tech Lead Frontend en proyecto e-commerce | Backend Developer API REST
-- Aprendiendo: AWS Generative AI, tecnologías emergentes
-- Buscando: Posición Junior/Mid-Level en proyectos tecnológicos innovadores
-- **🚀 Disponibilidad: Inmediata** | **💼 Modalidad: Presencial, Híbrida, Remota**
-
----
-
-## 💻 Stack Tecnológico
-
-### **🚀 Lenguajes Principales**
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **⚛️ Frameworks & Libraries**
-![React](https://img.shields.io/badge/React_18-Production-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-Production-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Learning-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **🗄️ Bases de Datos & Backend**
-![MySQL](https://img.shields.io/badge/MySQL-Production-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Production-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### **🛠️ Herramientas & DevOps**
-![Git](https://img.shields.io/badge/Git-Expert-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_GenAI-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Advanced-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-Production-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-### **📊 Distribución de Experiencia**
-```
-🐍 Python (Backend APIs, Flask)     ████████████████████████████████████████ 40%
-⚛️ JavaScript/React (Frontend)       ███████████████████████████████████      35%  
-🎨 HTML/CSS (UI/UX, Responsive)      ████████████████████████                 20%
-🗄️ SQL (Database Design)            █████                                     5%
-```
+* **Pensamiento Estructurado y Lingüística (Letras - UNLP):** El código es, fundamentalmente, lenguaje y abstracción. Mi formación en **Profesorado en Letras** me aporta una capacidad destacada para el análisis crítico de sistemas complejos, el modelado semántico de datos, la redacción de documentación técnica clara y la estructuración del pensamiento sintáctico[cite: 4]. Esta base resulta crítica para la ingeniería de prompts y el procesamiento del lenguaje natural (PLN).
+* **Comprensión del Usuario y Psicología (Yale University & IBM UI/UX):** El éxito de un producto depende de su adopción humana. Haber estudiado **Psicología** me permite abordar el desarrollo desde una perspectiva *User-Centric*, anticipando patrones de interacción, reduciendo la carga cognitiva en las interfaces y gestionando la dinámica de equipo con empatía, inteligencia emocional y comunicación asertiva[cite: 4].
+* **Método, Paciencia y Disciplina (Guitarra Clásica):** La interpretación musical de alto nivel exige práctica deliberada, descomposición de problemas complejos en partes pequeñas y atención obsesiva al detalle[cite: 4]. Aplico este mismo rigor al *debugging*, a la refactorización de código y al aprendizaje de nuevas tecnologías.
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Estado Actual y Objetivos de Carrera
 
-### **🔧 API REST Compumundo-HR** | *Backend Developer*
-**Proyecto Personal Fullstack** | *Agosto 2024 - Presente*
+Actualmente me encuentro consolidando mi perfil técnico a través de:
+* 📚 **Educación Superior:** Cursando la **Tecnicatura Superior en Desarrollo de Software** (IFTS N°29), profundizando en arquitectura de computadoras, gestión y administración de bases de datos relacionales y diseño de sistemas[cite: 4].
+* 💻 **Ciencias de la Computación:** Reforzando conceptos fundamentales de algoritmos, estructuras de datos y memoria mediante el programa **CS50 de HarvardX**.
+* 🚀 **Búsqueda Laboral Active:** Orientado a incorporarme como **Junior Frontend React Developer** o **Trainee/Junior Full-Stack Developer** en organizaciones que promuevan las buenas prácticas, el trabajo en equipo y la innovación tecnológica[cite: 4].
 
-API REST escalable desarrollada desde cero con arquitectura modular y mejores prácticas de seguridad enterprise.
-
-**Logros técnicos:**
-- 🚀 **API REST completa** siguiendo principios RESTful
-- 🔐 **Sistema de autenticación JWT** y gestión de sesiones seguras
-- 📊 **Optimización de base de datos** MySQL/SQLite con queries eficientes
-- 🔄 **Endpoints de sincronización bidireccional** con frontend existente
-
-**Tech Stack:** `Python` `Flask` `MySQL` `SQLite` `JWT` `API REST` `Postman`
+**🚀 Disponibilidad:** Inmediata | **💼 Modalidad:** Presencial, Híbrida o Remota[cite: 4]
 
 ---
 
-### **⚛️ E-commerce React Certificado** | *React Developer*
-**Programa Talento Tech - Ministerio de Educación CABA** | *Julio 2024*
+## 💻 Stack Tecnológico y Competencias
 
-Aplicación React de alto rendimiento desarrollada siguiendo el **currículo oficial gubernamental** con metodología AOP (Aprendizaje Orientado a Proyectos).
+### **Ecosistema Frontend**
+* **Core:** JavaScript (ES6+), HTML5, CSS3 semántico, JSX, TypeScript (conceptos base)[cite: 4].
+* **Frameworks & Libs:** React 18, React Router v6, Context API, Hooks personalizados (`useState`, `useEffect`, `useReducer`, `useContext`)[cite: 4].
+* **Estilado & UI:** Tailwind CSS, Bootstrap, CSS Grid, Flexbox, Responsive Web Design, Mobile-First Approach, Figma (UI/UX wireframing y prototipado)[cite: 4].
+* **Build Tools:** Vite, npm, Hot Module Replacement (HMR)[cite: 4].
 
-**Competencias certificadas oficialmente:**
-- ✅ **Creación de aplicación React desde cero** utilizando Vite
-- ✅ **CRUD completo de productos** en aplicación web funcional
-- ✅ **Autenticación de usuarios** con formularios validados
-- ✅ **Context API** para gestión de estado global del carrito
-- ✅ **Rutas protegidas** con React Router para navegación segura
-- ✅ **Despliegue profesional** en plataformas como Vercel/Netlify
+### **Ecosistema Backend & Bases de Datos**
+* **Lenguajes & Frameworks:** Python (Intermedio-Avanzado), Flask (API RESTful), Django[cite: 4].
+* **Bases de Datos:** MySQL, SQLite, diseño de diagramas entidad-relación (DER), normalización y consultas SQL[cite: 4].
+* **Seguridad & Autenticación:** Autenticación basada en JSON Web Tokens (JWT), manejo seguro de variables de entorno, validación de inputs[cite: 4].
+* **Testing de APIs:** Postman (colecciones, pruebas de endpoints, automatización de tests de integración)[cite: 4].
 
-**Logros técnicos:**
-- 🔧 **React Hooks avanzados** (useContext, useReducer, useParams)
-- 🛒 **Gestión de estado global** con Context API
-- 🔒 **Autenticación y autorización** completa
-- 💾 **Persistencia inteligente** con localStorage optimizado
-- ⚡ **Configuración avanzada** con Vite y Hot Module Replacement
-
-**Tech Stack:** `React 18` `Vite` `JavaScript ES6+` `Context API` `React Router` `localStorage` `Bootstrap` `JSX`
+### **Herramientas, DevOps y Metodologías**
+* **Control de Versiones:** Git, GitHub, estrategia de ramificación GitFlow, resolución de conflictos de merge, Pull Requests y Code Reviews[cite: 4].
+* **Metodologías:** Agile, Scrum, trabajo colaborativo distribuido[cite: 4].
+* **Otros:** Conceptos básicos de AWS Generative AI, integración de herramientas No-Code/Low-Code (WordPress, Webflow)[cite: 4].
 
 ---
 
-### **🛒 E-commerce Compumundo-HR Frontend** | *Tech Lead*
-**Proyecto Grupal Colaborativo | Codo a Codo 4.0** | *Julio 2024 - Presente*
+## 🛠️ Arquitectura de Proyectos Destacados
 
-Lideré un equipo multidisciplinario de **4 desarrolladores frontend** aplicando metodologías ágiles y mejores prácticas de desarrollo.
-
-**Logros de liderazgo:**
-- ✅ **Arquitectura frontend completa** con slider personalizado (JavaScript vanilla)
-- ✅ **Sistema de validación en tiempo real** → **+40% mejora UX**
-- ✅ **Estrategia responsive design** con Flexbox y CSS Grid
-- ✅ **Componentes reutilizables** y sistema de iconografía consistente
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript ES6+` `Flexbox` `CSS Grid` `FontAwesome` `Git`
-
----
-
-### **🐾 Little Homies - Adopción Responsable** | *Frontend Developer*
-**Proyecto Personal de Impacto Social** | *Junio 2024*
-
-Plataforma web responsiva para facilitar la **adopción responsable de mascotas**, enfocada en generar impacto social positivo en la comunidad.
-
-**Logros de impacto:**
-- 🎯 **Interfaz emocional** para navegación de catálogo de adopción
-- 🔍 **Sistema de filtros avanzados** para matching mascota-adoptante
-- 💫 **Componentes interactivos** con feedback visual
-- 📱 **Diseño mobile-first** optimizado para accesibilidad
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design` `UX/UI`
+### ⚛️ **Aplicación E-commerce Moderna** | *Frontend React Developer*
+> **Enfoque:** Arquitectura Single Page Application (SPA), React 18, Vite y Estado Global[cite: 4].
+* **Visión General:** Desarrollo de una tienda virtual interactiva y de alto rendimiento, diseñada para ofrecer una experiencia de navegación fluida e intuitiva[cite: 4].
+* **Detalles de Implementación:**
+  * Configuración del entorno de desarrollo sobre **Vite** para maximizar la velocidad de compilación y recarga en caliente (HMR)[cite: 4].
+  * Implementación de una arquitectura de componentes modulares y reutilizables[cite: 4].
+  * Control del estado global del carrito de compras a través de **Context API** en combinación con el hook `useReducer`, evitando el antipatrón de *prop-drilling*[cite: 4].
+  * Sistema de enrutamiento dinámico y protección de vistas mediante **React Router v6**[cite: 4].
+  * Módulo de persistencia local en el navegador utilizando `localStorage` para mantener la sesión y el estado de la compra[cite: 4].
+* **Tech Stack:** `React 18` | `Vite` | `JavaScript ES6+` | `Context API` | `React Router` | `localStorage` | `Bootstrap`[cite: 4]
 
 ---
 
-## 🧠 Fortalezas Profesionales
-
-### **👥 Liderazgo Técnico**
-- Gestión de equipos multidisciplinarios
-- Mentoring de junior developers  
-- Aplicación de metodologías Agile/Scrum
-
-### **🎯 Inteligencia Emocional**
-- Comunicación efectiva en equipos diversos
-- Resolución de conflictos constructiva
-- Background en **Psicología (Yale University)**
-
-### **🚀 Pensamiento Analítico**
-- Problem-solving complejo y debugging avanzado
-- Análisis crítico de arquitecturas de software
-- Adaptabilidad y aprendizaje continuo
-
-### **🎨 Visión UX/UI**
-- Desarrollo centrado en el usuario
-- Wireframing y prototyping con Figma
-- Design thinking aplicado
+### 🔧 **API REST Compumundo-HR** | *Backend Developer*
+> **Enfoque:** Microservicio de API RESTful con Flask, JWT y MySQL/SQLite[cite: 4].
+* **Visión General:** Sistema backend encargado del procesamiento de datos, gestión de usuarios y provisión de endpoints para aplicaciones e-commerce[cite: 4].
+* **Detalles de Implementación:**
+  * Diseño de endpoints alineados estrictamente con las convenciones y verbos de la arquitectura **RESTful** (`GET`, `POST`, `PUT`, `DELETE`)[cite: 4].
+  * Implementación de capa de seguridad y sesión utilizando tokens **JWT (JSON Web Tokens)**[cite: 4].
+  * Modelado de datos en **MySQL** y **SQLite**, estableciendo relaciones clave foránea/primaria e integridad referencial[cite: 4].
+  * Pruebas integrales de estrés, validación de esquemas JSON y documentación mediante colecciones estructuradas en **Postman**[cite: 4].
+* **Tech Stack:** `Python` | `Flask` | `MySQL` | `SQLite` | `JWT` | `API REST` | `Postman`[cite: 4]
 
 ---
 
-## 🎓 Certificaciones Profesionales
-
-### **⚛️ React JS Specialist** | *Julio 2024*
-**Ministerio de Educación Ciudad Autónoma de Buenos Aires - Talento Tech**  
-Desarrollo de aplicaciones React modernas con arquitectura escalable. Hooks, Context API, State Management, CRUD, Autenticación.
-
-### **🤖 Introduction to Generative AI** | *Marzo 2025*
-**Amazon Web Services (AWS Educate)**  
-Fundamentos de IA Generativa y Machine Learning aplicados al desarrollo web.
-
-### **📊 Getting Started with Git and GitHub** | *Agosto 2024*
-**IBM** | *Credential ID: BD4SFI2R8ZNX*  
-Mastery en DVCS, GitFlow y colaboración en proyectos open source.
-
-### **🎯 Designing User Interfaces and Experiences (UI/UX)** | *Julio 2024*
-**IBM** | *Credential ID: BCNY5ULLF8HV*  
-User Experience Design avanzado y dominio de Figma para wireframing profesional.
-
-### **🐍 Full-Stack Developer Python** | *Julio 2024*
-**Agencia de Habilidades para el Futuro - Codo a Codo 4.0**  
-Desarrollo full-stack con Python, Django, Flask y MySQL. POO y diseño de bases de datos.
-
-### **🏛️ Introduction to Psychology** | *Octubre 2021*
-**Yale University** | *Credential ID: UQHTM2WREED5*  
-Psicología aplicada, comportamiento humano e inteligencia emocional.
+### 🛒 **E-commerce Compumundo-HR Frontend** | *Coordinador Técnico & Frontend Developer*
+> **Enfoque:** Desarrollo Colaborativo, Maquetación Responsiva y GitFlow[cite: 4].
+* **Visión General:** Proyecto de comercio electrónico desarrollado en equipo, priorizando el cumplimiento de estándares de maquetación y la coordinación eficiente del código fuente[cite: 4].
+* **Detalles de Implementación:**
+  * Liderazgo operativo en la distribución de tareas y la administración del repositorio central en **GitHub** bajo la metodología **GitFlow**[cite: 4].
+  * Programación en **JavaScript Vanilla** para componentes interactivos (slider principal de productos, galerías y modales) sin dependencia de librerías externas[cite: 4].
+  * Construcción del sistema de validación de formularios con respuesta visual instantánea (*real-time feedback*) para mejorar las tasas de conversión[cite: 4].
+  * Diseño adaptativo *Mobile-First* utilizando **CSS Grid** y **Flexbox** para asegurar compatibilidad multidispositivo[cite: 4].
+* **Tech Stack:** `HTML5` | `CSS3` | `JavaScript ES6+` | `Flexbox` | `CSS Grid` | `FontAwesome` | `Git`[cite: 4]
 
 ---
 
-## 🌟 Lo que me hace único
-
-> *"Mi background único en Psicología y UX/UI Design me permite desarrollar productos centrados en el usuario y liderar equipos multidisciplinarios con alta inteligencia emocional."*
-
-**🧠 Psicología aplicada al desarrollo** - Comprendo el comportamiento del usuario  
-**🎨 Visión integral UX/UI** - Desde wireframes hasta código funcional  
-**👥 Liderazgo empático** - Gestión efectiva de equipos técnicos  
-**🌍 Enfoque en impacto social** - Tecnología con propósito y valores  
-**📚 Pasión por la educación** - Mentoring y transferencia de conocimiento  
-**🎼 Creatividad musical** - Guitarra clásica como inspiración para el código
+### 🐾 **Little Homies (Plataforma de Adopción)** | *Full-Stack Developer*
+> **Enfoque:** Proyecto de Impacto Social con Backend en Django[cite: 4].
+* **Visión General:** Aplicación web integral que conecta refugios de animales con potenciales adoptantes, integrando un diseño enfocado en la empatía con una estructura de datos sólida[cite: 4].
+* **Detalles de Implementación:**
+  * Desarrollo del panel de administración y lógica de negocio mediante el framework **Django**[cite: 4].
+  * Construcción del sistema de filtrado dinámico para la búsqueda de mascotas según variables de tamaño, edad y ubicación[cite: 4].
+  * Aplicación de principios de **UX/UI** para construir un recorrido de usuario intuitivo y accesible[cite: 4].
+* **Tech Stack:** `Python` | `Django` | `HTML5` | `CSS3` | `JavaScript` | `Responsive Design` | `UX/UI`[cite: 4]
 
 ---
 
-## 📈 Objetivos Profesionales
+## 🎓 Formación Académica y Trayectoria
 
-**Buscando posición Junior/Mid-Level** donde pueda aplicar mi experiencia técnica, habilidades de liderazgo y visión creativa para impulsar proyectos tecnológicos innovadores.
+### **Educación Formal e Institucional**
+* **Tecnicatura Superior en Desarrollo de Software**  
+  *Instituto de Formación Técnica Superior N°29* | En curso (Inició Agosto 2026)[cite: 4]  
+  *Formación oficial enfocada en ingeniería de software, arquitectura de sistemas, bases de datos y POO.*[cite: 4]
 
-**Intereses específicos:**
-- 🚀 Startups tecnológicas con impacto social
-- 🎓 EdTech y plataformas educativas  
-- 🌱 Proyectos de sostenibilidad y medio ambiente
-- 🤖 Integración de IA en productos web
-- 🎨 Intersección entre tecnología y arte
+* **Profesorado en Letras (Promedio destacado: 9,40)**  
+  *Universidad Nacional de La Plata (UNLP)* | En curso (Inició Marzo 2024)[cite: 4]  
+  *Especialización en análisis del discurso, estructuración lingüística, pedagogía y pensamiento analítico.*[cite: 4]
 
----
-
-## 📫 ¡Conectemos!
-
-Estoy **disponible inmediatamente** para nuevas oportunidades y colaboraciones.
-
-**📧 Email:** juliandorao@outlook.com  
-**📱 WhatsApp:** +54 9 221 654-4515  
-**💼 LinkedIn:** [linkedin.com/in/julián-dorao](https://linkedin.com/in/julián-dorao)  
-**🔗 GitHub:** [github.com/Juliandavidlp](https://github.com/Juliandavidlp)
+* **Profesorado en Guitarra Clásica**  
+  *Conservatorio de Música Gilardo Gilardi* | En curso (Inició Marzo 2014)[cite: 4]  
+  *Disciplina de alto rendimiento, ejecución técnica, resolución de problemas y atención al detalle.*[cite: 4]
 
 ---
 
-**🚀 Disponibilidad:** Inmediata | **💼 Modalidad:** Presencial, Híbrida, Remota  
-**🌍 Idiomas:** Español (Nativo), Inglés (Intermedio-Avanzado B2)  
-**📍 Ubicación:** La Plata, Buenos Aires, Argentina
+### **Certificaciones Profesionales y Cursos**
+* **React JS Specialist** — *Talento Tech (CABA)* | Julio 2025[cite: 4]
+* **Introduction to Generative AI** — *Amazon Web Services (AWS Educate)* | Marzo 2025[cite: 4]
+* **Getting Started with Git and GitHub** — *IBM* (ID: BD4SFI2R8ZNX) | Agosto 2024[cite: 4]
+* **Designing User Interfaces and Experiences (UI/UX)** — *IBM* (ID: BCNY5ULLF8HV) | Julio 2024[cite: 4]
+* **Full-Stack Developer Python** — *Codo a Codo 4.0 (Agencia de Habilidades para el Futuro)* | Julio 2024[cite: 4]
+* **Introduction to Psychology** — *Yale University* (ID: UQHTM2WREED5) | Octubre 2021[cite: 4]
 
 ---
 
-*"Busco la intersección entre tecnología, arte y desarrollo humano"* 🚀✨
+## 🌍 Idiomas
+* **Español:** Idioma Nativo[cite: 4].
+* **Inglés:** Nivel B1 (Lectura fluida de documentación técnica, especificaciones de APIs y código)[cite: 4].
 
 ---
 
-**Keywords:** Full-Stack Developer, React Developer, Python Developer, Frontend Developer, Backend Developer, JavaScript Expert, Flask Specialist, Django Developer, Junior Developer, Mid-Level Developer, Git Expert, API REST, Responsive Design, E-commerce Development, Web Development, UX/UI Designer, Tech Lead, Buenos Aires Developer, La Plata, Argentina, React Hooks, Context API, localStorage, Modern JavaScript, AWS, Agile Methodologies
+## 📫 Información de Contacto
+
+Estoy abierto a conversar sobre oportunidades laborales, proyectos colaborativos o desarrollo de software[cite: 4].
+
+* **Email Directo:** [juliandorao@outlook.com](mailto:juliandorao@outlook.com)[cite: 4]
+* **WhatsApp:** [+54 9 221 654-4515](https://wa.me/5492216544515)[cite: 4]
+* **Perfil de LinkedIn:** [linkedin.com/in/julián-dorao](https://linkedin.com/in/julián-dorao)[cite: 4]
+* **Repositorio GitHub:** [github.com/Juliandavidlp](https://github.com/Juliandavidlp)[cite: 4]
+
+---
+
+<div align="center">
+
+*"Desarrollando software en la intersección entre la tecnología, el arte y la conducta humana."* 🚀✨[cite: 4]
+
+</div>
