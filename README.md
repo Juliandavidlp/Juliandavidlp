@@ -14,22 +14,6 @@
 
 ---
 
-## 📊 Métricas de Actividad y Contribuciones
-
-<div align="center">
-
-<a href="https://github.com/Juliandavidlp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliandavidlp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/Juliandavidlp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliandavidlp&layout=compact&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
 ## 🚀 Perfil Profesional & Filosofía de Trabajo
 
 Soy un **Junior Full-Stack Developer** enfocado en el diseño, desarrollo e implementación de aplicaciones web modernas, escalables y mantenibles. Mi enfoque combina la solidez técnica del desarrollo orientado a objetos y arquitecturas distribuidas con una profunda comprensión de la experiencia de usuario y la comunicación.
